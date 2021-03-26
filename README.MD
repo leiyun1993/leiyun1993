@@ -4,7 +4,7 @@
   </a>
   
   <a href="https://github.com/leiyun1993">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiyun1993p&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiyun1993&layout=compact" />
   </a>
   
 </p>
