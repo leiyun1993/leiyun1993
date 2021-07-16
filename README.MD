@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/leiyun1993">
-    <img src="https://github-readme-stats.wasabeef.vercel.app/api?username=leiyun1993&show_icons=true&line_height=21&show_icons=true&theme=buefy&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=leiyun1993&line_hight=100&show_icons=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/leiyun1993">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiyun1993&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiyun1993" />
   </a>
 </p>
 <p align="center">
