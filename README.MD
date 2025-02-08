@@ -4,7 +4,7 @@
 
 **About me**
 
-- 👋 一名热衷于前端开发的工程师，主要前端Android 。
+- 👋 一名热衷于大前端开发的程序员一枚。也写一些Android、node后端等~
 
 - 🚀 技术栈：Vue.js、小程序、UniApp、kotlin、nodejs ...
 
