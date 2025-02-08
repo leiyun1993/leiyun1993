@@ -25,8 +25,9 @@
 <code><img height="20" alt="php" src="./assets/php.png"></code>
 
 <br />
-| <a href="https://github.com/leiyun1993/leiyun1993"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leiyun1993&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/leiyun1993/leiyun1993"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiyun1993&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+|<a href="https://github.com/leiyun1993/leiyun1993"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leiyun1993&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>|<a href="https://github.com/leiyun1993/leiyun1993"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiyun1993&layout=compact&theme=buefy&hide_border=true" /></a>|
+|------------- |------------- |
 
 <br />
 <p>
